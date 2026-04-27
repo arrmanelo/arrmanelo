@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-███████║██████╔╝██╔████╔██║███████║██╔██╗ ██║
-██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚════╝
-```
+# ARMAN SEITKUL
 
 ### `AI & Full-Stack Developer` · `Pavlodar, Kazakhstan` · `17 y.o.`
 
@@ -52,7 +45,7 @@ Data should be open. The algorithm analyzes tenders and detects anomalies — be
 | Frontend | Backend | AI / Infra |
 |:---:|:---:|:---:|
 | React · Next.js | FastAPI · Node.js | LangChain |
-| React Native (Expo) | Supabase · PostgreSQL | OpenAI · Gemini · Anthropic |
+| React Native (Expo) | Supabase · PostgreSQL · Firebase | OpenAI · Gemini · Anthropic |
 | Framer Motion | MongoDB | Docker · Turbopack |
 | Three.js | — | RAG Pipelines |
 
