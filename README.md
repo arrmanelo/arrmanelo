@@ -1,53 +1,105 @@
-# 🚀 Привет, я Арман! | AI & Full-Stack Developer 🇰🇿
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Age-17-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Student_@_KIT-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI_SaaS_&_Creative_Tech-orange?style=for-the-badge" />
-</p>
+```
+ █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+███████║██████╔╝██╔████╔██║███████║██╔██╗ ██║
+██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚════╝
+```
 
-Я — разработчик из Павлодара, который верит, что технологии должны не просто работать, а объединять людей. Мой путь — это превращение вызовов в возможности: от запуска первых стартапов до создания инклюзивных цифровых решений.
+### `AI & Full-Stack Developer` · `Pavlodar, Kazakhstan` · `17 y.o.`
 
----
+![Age](https://img.shields.io/badge/Age-17-ffffff?style=flat-square&labelColor=111111&color=ffffff)
+![Status](https://img.shields.io/badge/Student-KIT-ffffff?style=flat-square&labelColor=111111&color=ffffff)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20SaaS-ffffff?style=flat-square&labelColor=111111&color=ffffff)
+![Open to collab](https://img.shields.io/badge/Open%20to-Collaboration-ffffff?style=flat-square&labelColor=111111&color=ffffff)
 
-### 🔭 Сейчас я работаю над:
-- **[Draply](https://github.com/arrmanelo/draply)** — CLI-инструмент для визуального редактирования кода на localhost. Моя цель — избавить разработчиков от вечного Alt-Tab.
-- **AdalTender** — AI-платформа для мониторинга прозрачности госзакупок в Казахстане.
+*I build tools that connect people. From early startups to inclusive AI solutions — every challenge becomes an opportunity.*
 
-### 🌱 Я сейчас изучаю:
-- Глубокое погружение в **RAG архитектуры** и оптимизацию работы с большими языковыми моделями (LLMs).
-- Масштабирование B2B SaaS продуктов и тонкости выхода на международный рынок.
-
-### 💬 Спрашивай меня о:
-- Разработке на **React, Next.js и FastAPI**.
-- Интеграции любых API (**Gemini, OpenAI, Anthropic** и др.).
-- Том, как запустить киноклуб в колледже или выиграть чемпионат города по каратэ.
-
-### ⚡ Забавный факт:
-- В 16 лет я запустил свой бизнес по дизайну детской одежды. Проект научил меня стойкости и тому, что провал — это просто еще один шаг к крутому продукту.
+</div>
 
 ---
 
-### 👤 Немного личного (Beyond the Code)
+## `// current_projects`
 
-- **Community Leader:** Основал первый киноклуб в KIT (50+ участников) и активно участвую в студенческом парламенте.
-- **Disciplined Athlete:** Чемпион города по каратэ и волейболист команды "Баянтау". Спорт научил меня дисциплине и работе в команде.
-- **Creative Drive:** Пишу сценарии для анимационных фильмов и создаю оригинальных персонажей.
+### ◆ [Draply](https://github.com/arrmanelo/draply)
+> CLI tool for visual code editing directly in the browser.
 
----
+No more endless **Alt-Tab** between editor and preview. Edit your code — see the result on `localhost` in real time.
 
-### 🛠 Мой Стек
+### ◆ AdalTender
+> AI platform for monitoring government procurement transparency in Kazakhstan.
 
-- **Frontend:** React, Next.js, React Native (Expo), Framer Motion, Three.js
-- **Backend:** FastAPI, Node.js, Supabase, PostgreSQL, MongoDB
-- **AI/Tools:** LangChain, Docker, Turbopack, интеграция всех видов ИИ-апишек.
+Data should be open. The algorithm analyzes tenders and detects anomalies — because transparency matters.
 
 ---
 
-### 📫 Как со мной связаться:
-- **LinkedIn:** [Arman Seitkul](https://www.linkedin.com/in/arman-seitkul-bb54ba396)
-- **Telegram:** @твой_ник
+## `// currently_learning`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrmanelo&show_icons=true&theme=radical&rank_icon=github" alt="Arman's GitHub stats" />
-</p>
+```
+▸ RAG Architectures     ██████████░░░░  deep dive into LLM optimization pipelines
+▸ B2B SaaS Scaling      ████████░░░░░░  international market entry strategies
+```
+
+---
+
+## `// tech_stack`
+
+<div align="center">
+
+| Frontend | Backend | AI / Infra |
+|:---:|:---:|:---:|
+| React · Next.js | FastAPI · Node.js | LangChain |
+| React Native (Expo) | Supabase · PostgreSQL | OpenAI · Gemini · Anthropic |
+| Framer Motion | MongoDB | Docker · Turbopack |
+| Three.js | — | RAG Pipelines |
+
+</div>
+
+---
+
+## `// github_stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arrmanelo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrmanelo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" height="150" />
+</div>
+
+---
+
+## `// beyond_the_code`
+
+```
+◆  City karate champion · volleyball player at "Bayantau"
+   → Sport taught me discipline and teamwork
+
+◆  Founded the first film club at KIT (50+ members)
+   → Student parliament · community building
+
+◆  Writing scripts for animated films
+   → Creating original characters and worlds
+
+◆  Launched a children's clothing design business at 16
+   → "Failure is just another step toward a great product"
+```
+
+---
+
+## `// contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20Seitkul-ffffff?style=flat-square&logo=linkedin&logoColor=black&labelColor=ffffff)](https://www.linkedin.com/in/arman-seitkul-bb54ba396)
+[![GitHub](https://img.shields.io/badge/GitHub-arrmanelo-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=ffffff)](https://github.com/arrmanelo)
+
+*Open to collaborations, internships, and great ideas.*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>built with caffeine and curiosity · Pavlodar → World</sub>
+</div>
